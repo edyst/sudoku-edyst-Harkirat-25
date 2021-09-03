@@ -6,6 +6,7 @@ function restrictAlphabets(e) {
     else
         return false;
 }
+
 var table = document.querySelector('.table');
 var easy = [[2,null,5,null,null,9,null,null,4],
 [null,null,null,null,null,null,3,null,7],
